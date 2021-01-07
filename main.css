@@ -1,0 +1,217 @@
+
+body {
+	background: black;
+}
+h1 {
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 10px;
+	margin: 0 auto;
+	padding: 10px;
+	width: 780px;
+	background-color: #444;
+	color: #888;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	border: 3px solid black;
+	border-radius: 10px;
+	margin: 0 auto;
+	padding: 10px;
+	width: 480px;
+	background-color: #444;
+	color: #ccc;
+}
+.main{
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	margin-top: 10px;
+	border: 1px solid lightgray;
+	background-image: url('palo.jpg');
+	background-size: 800px 600px;
+	border-radius: 15px;
+	position: relative;
+}
+
+.palopic{
+	background-image: url('palo.jpg');
+}
+
+.dhalopic {
+	background-image: url('dhalo.jpg');
+}
+
+.nilopic {
+	background-image: url('nilo.jpg');
+}
+
+.sapic {
+	background-image: url('sa.jpg');
+}
+
+.repic {
+	background-image: url('re.jpg');
+}
+
+.gapic {
+	background-image: url('ga.jpg');
+}
+
+.mapic {
+	background-image: url('ma.jpg');
+}
+
+.papic {
+	background-image: url('pa.jpg');
+}
+
+.dhapic {
+	background-image: url('dha.jpg');
+}
+
+.nipic {
+	background-image: url('ni.jpg');
+}
+
+.sahipic {
+	background-image: url('sahi.jpg');
+}
+
+.rehipic {
+	background-image: url('rehi.jpg');
+}
+
+.gahipic {
+	background-image: url('gahi.jpg');
+}
+
+.pa-lo {
+position: absolute;
+top: 104px;
+left: 597px;
+}
+
+.dha-lo {
+position: absolute;
+top: 125px;
+left: 557px;
+}
+
+.ni-lo {
+position: absolute;
+top: 148px;
+left: 512px;
+}
+
+.sa {
+position: absolute;
+top: 168px;
+left: 465px;
+}
+
+.re {
+position: absolute;
+top: 187px;
+left: 419px;
+}
+
+.ga {
+position: absolute;
+top: 199px;
+left: 398px;
+}
+
+.ma {
+position: absolute;
+top: 215px;
+left: 364px;
+}
+
+.pa {
+position: absolute;
+top: 233px;
+left: 338px;
+}
+
+.dha {
+position: absolute;
+top: 242px;
+left: 317px;
+}
+
+.ni {
+position: absolute;
+top: 248px;
+left: 295px;
+}
+
+.sa-hi {
+position: absolute;
+top: 255px;
+left: 275px;
+}
+
+.re-hi{
+position: absolute;
+top: 268px;
+left: 254px;
+}
+
+.ga-hi {
+position: absolute;
+top: 275px;
+left: 239px;
+}
+
+.note{
+	background: transparent;
+	width: 19px;
+	height: 60px;
+	/*border: 1px solid lightgray;*/
+	border-radius: 5px;
+	margin: 5px;
+	color: transparent;
+}
+
+.bowl {
+width: 211px;
+height: 120px;
+position: absolute;
+top: 471px;
+left: 544px;
+/*border: 1px solid white;*/
+background: transparent;
+}
+
+.drone {
+	position: absolute;
+top: 300px;
+left: 143px;
+width: 90px;
+}
+
+.strings {
+position: absolute;
+top: 350px;
+width: 90px;
+left: 44px;
+}
+
+.tabla {
+bottom: -48px;
+left: 50%;
+background: -webkit-linear-gradient(rgb(139, 115, 71),rgb(75, 73, 58));
+position: absolute;
+padding: 10px 13px;
+border-radius: 11px;
+color: white;
+}
+
+.info {
+color: rgb(107, 95, 64);
+position: absolute;
+bottom: -80px;
+left: 40%;
+}
